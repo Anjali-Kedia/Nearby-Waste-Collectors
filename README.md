@@ -1,4 +1,4 @@
-# Movies Shot Nearby
+# Collectors Nearby
 
 A tool for finding the top-10 movies shot near your location. It requests 2 input parameters: Movie Release Year and Location. Using the database containing information about more than 1 million movies, the program determines the top-10 movies shot the nearest to the given location. The generation proccess may take up to 2 minutes.
 
