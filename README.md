@@ -1,7 +1,7 @@
 
 #Nearby Waste Collectors
 
-A tool for finding the top-10 movies shot near your location. It requests 2 input parameters: Movie Release Year and Location. Using the database containing information about more than 1 million movies, the program determines the top-10 movies shot the nearest to the given location. The generation proccess may take up to 2 minutes.
+A tool for finding waste collectors near your location. It requests 2 input parameters: type of waste you want to dispose and Location. Using the database containing information about local waste collectors, the program determines the waste collectors nearest to the given location. The generation proccess may take up to 2 minutes.
 
 ## Getting Started
 
