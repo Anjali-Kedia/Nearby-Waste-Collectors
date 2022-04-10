@@ -291,5 +291,6 @@ if __name__ == '__main__':
                 display_places(names, lat, lon, option)
                 print("\nFinished. Please have look at the map "
                       "map_%s_collectors_map.html" % option)
+            break
     except ValueError:
         print("Wrong input data! Try one more time!")
