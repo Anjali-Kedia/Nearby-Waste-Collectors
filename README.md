@@ -60,7 +60,7 @@ The python code generates a HTML-file with a map using folium library. This libr
 
 ## Author
 
-**bleh**
+**Anjali Kedia, Anushka Agarwal, Pritika Kannapiran, Srijena Guin**
 
 ## License
 
