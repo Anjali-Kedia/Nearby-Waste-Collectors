@@ -276,14 +276,14 @@ if __name__ == '__main__':
                 # below will throw exception
                 address = location.address
             except Exception as e:
-                print("Wrong coordinates!")
+                print("Wrong address,try again!")
 
             names = find_collectors(option, lat, lon, location)
             if len(names) == 0:
                 print('-' * 55)
                 print('Unfortunately, it isn\'t possible '
                       'to find collectors nearby ')
-                print('for your location and year picked :()')
+                print('for your location and option picked :()')
                 print('-' * 55)
             else:
                 names = list(names)[:240]
