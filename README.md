@@ -47,10 +47,10 @@ Total collectors in Delhi: 3
  
 Total collectors in India: 9 
 
-Finished. Please have look at the map file:///C:/Users/Admin/Downloads/Screenshot%202022-04-10%20at%206.27.11%20PM.html
+Finished. Please have look at the map https://user-images.githubusercontent.com/103133951/162619708-175c0908-4133-47a3-8a0a-7bf6ec199599.png
 ```
 
-This is the output file (map_2014_movies_map.html):
+This is the output file (https://user-images.githubusercontent.com/103133951/162619708-175c0908-4133-47a3-8a0a-7bf6ec199599.png):
 
 <img width="1007" alt="Screenshot 2022-04-10 at 6 27 11 PM" src="https://user-images.githubusercontent.com/103133951/162619708-175c0908-4133-47a3-8a0a-7bf6ec199599.png">
 
