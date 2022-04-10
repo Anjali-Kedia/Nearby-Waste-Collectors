@@ -22,25 +22,29 @@ pip install folium
 Here is an example of program usage
 
 ```
-Please enter a year you would like to have a map for: 2014
-Please enter your location (format: lat, long): 4.352713,18.557143
-Input Location: Central African Republic Bangui
+Please enter from below :
+1.newspapers,old books,cardboard boxes 
+2.kitchen waste
+3.metal waste
+4.glass items
+5.plastic
+6.e-waste
+1
+enter address: 
+civil lines, new delhi, india
+Input Location: India Delhi
 
 Reading file. Wait for 5-7 seconds ...
 
-Total of 1241787 films parsed
+Total of 72 collectors parsed
 
-Too few films found in the country, starting deep search
+Too few collectors found in the area, starting deep search
 -------------------------------------------------------
-Found 38089 films in 2014 
+Found 12 collectors in 1 
  
-Total movies shot in Bangui: 0 
+Total collectors in Delhi: 3 
  
-Total movies shot in Central African Republic: 0 
-
-Total movies shot in AFRICA: 356
--------------------------------------------------------
-Calculating the nearest places. It may take up to 2.0 minutes
+Total collectors in India: 9 
 
 Finished. Please have look at the map map_2014_movies_map.html
 ```
