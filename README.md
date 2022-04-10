@@ -46,7 +46,7 @@ Total collectors in Delhi: 3
  
 Total collectors in India: 9 
 
-Finished. Please have look at the map map_2014_movies_map.html
+Finished. Please have look at the map file:///C:/Users/Admin/Downloads/Screenshot%202022-04-10%20at%206.27.11%20PM.html
 ```
 
 This is the output file (map_2014_movies_map.html):
@@ -59,7 +59,7 @@ The python code generates a HTML-file with a map using folium library. This libr
 
 ## Author
 
-**Dmytro Lopushanskyy**
+**bleh**
 
 ## License
 
