@@ -1,3 +1,4 @@
+<img width="1007" alt="Screenshot 2022-04-10 at 6 27 11 PM" src="https://user-images.githubusercontent.com/103133951/162619708-175c0908-4133-47a3-8a0a-7bf6ec199599.png">
 #Nearby Waste Collectors
 
 A tool for finding the top-10 movies shot near your location. It requests 2 input parameters: Movie Release Year and Location. Using the database containing information about more than 1 million movies, the program determines the top-10 movies shot the nearest to the given location. The generation proccess may take up to 2 minutes.
@@ -51,7 +52,7 @@ Finished. Please have look at the map file:///C:/Users/Admin/Downloads/Screensho
 
 This is the output file (map_2014_movies_map.html):
 
-<img width="1280" alt="Movies Shot Near Bangui" src="https://user-images.githubusercontent.com/25267308/74776024-7b4ad180-529f-11ea-9527-f2dc642b1689.png">
+<img width="1280" alt="Movies Shot Near Bangui" src="file:///C:/Users/Admin/Downloads/Screenshot%202022-04-10%20at%206.27.11%20PM.html">
 
 ## Main principles
 
